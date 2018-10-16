@@ -1,5 +1,5 @@
 # Portfolio
-Hello this is my portfolio showcasing some of my projects from my GitHub!
+Hello this is my responsive portfolio showcasing some of my projects from my GitHub!
 
 Technologies used:
   HTML
